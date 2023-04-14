@@ -1,4 +1,4 @@
-# CPYRR-Compiler-Virtual-Machine
+# CPYRR Compiler-Virtual Machine
 
 ## Créateurs
 
